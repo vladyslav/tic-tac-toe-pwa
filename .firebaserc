@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-a727e": {
+      "hosting": {
+        "tic-tac-toe": [
+          "fir-a727e"
+        ]
+      }
+    }
+  }
+}
